@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "aoc"
+  ],
+  "author": "Aen Jojo",
+  "license": "MIT"
+}
