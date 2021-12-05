@@ -1,5 +1,5 @@
 const path = require('path');
-const solution = require('./solution/aoc_d1_c1');
+const solution = require('./solution/aoc_d1_c2');
 const readline = require('./module/readline');
 
 // solution();
