@@ -4,4 +4,6 @@ const readline = require('./module/readline');
 
 // solution();
 
-readline(path.resolve(__dirname, './input/input_d1.txt'), solution);
+const inputPath = path.resolve(__dirname, './input/input_d1.txt');
+
+readline(inputPath, solution);
