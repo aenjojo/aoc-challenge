@@ -1,13 +1,16 @@
 {
-	"name": "aoc-2021",
+	"name": "aoc-challenges",
 	"version": "1.0.0",
-	"description": "",
+	"description": "My solution to Advent of Code challenges",
 	"main": "main.js",
 	"scripts": {
 		"start": "node src/main.js"
 	},
 	"keywords": [
-		"aoc"
+		"advent-of-code",
+		"aoc-solution",
+		"aoc-2021",
+		"aoc-2022"
 	],
 	"author": "Aen Jojo",
 	"license": "MIT"
