@@ -1,12 +1,13 @@
-const day = 6;
+const year = 2022;
+const day = 1;
 const challenge = 2;
 
 const path = require('path');
-const solution = require(`./solution/aoc_d${day}_c${challenge}`);
+const solution = require(`./${year}/solution/aoc_d${day}_c${challenge}`);
 const readline = require('./module/readline');
 
-// solution();
+// solution(); // just for test purpose
 
-const inputPath = path.resolve(__dirname, `./input/input_d${day}.txt`);
+const inputPath = path.resolve(__dirname, `./${year}/input/input_d${day}.txt`);
 
 readline(inputPath, solution);
