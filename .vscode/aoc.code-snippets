@@ -18,7 +18,7 @@
 
 	"Base Function": {
 		"scope": "javascript",
-		"prefix": "defunc",
+		"prefix": "aocfunc",
 		"body": [
 			"function aoc$1_$2() {",
 			"\t$3",
