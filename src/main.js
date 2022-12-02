@@ -1,5 +1,5 @@
 const year = 2022;
-const day = 1;
+const day = 2;
 const challenge = 2;
 
 const path = require('path');
